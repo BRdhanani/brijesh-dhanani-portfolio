@@ -1,3 +1,2 @@
-# brdhanani.github.io
-
-Simple portfolio website created using github pages.
+# Brijesh Dhanani Portfolio
+https://brijesh-dhanani.netlify.com/
