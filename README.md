@@ -1,2 +1,2 @@
 # Brijesh Dhanani Portfolio
-https://brijesh-dhanani.netlify.com
+This site is deployed using netlify. You can check it here https://brijesh-dhanani.netlify.com
